@@ -1,0 +1,80 @@
+[
+  {
+    "CustomerID": "CENTC",
+    "CompanyName": "Centro comercial Moctezuma",
+    "ContactName": "Francisco Chang",
+    "ContactTitle": "Marketing Manager",
+    "Address": "Sierras de Granada 9993",
+    "City": "México D.F.",
+    "Region": null,
+    "PostalCode": "05022",
+    "Country": "Mexico",
+    "Phone": "(5) 555-3392",
+    "Fax": "(5) 555-7293"
+  },
+  {
+    "CustomerID": "LAZYK",
+    "CompanyName": "Lazy K Kountry Store",
+    "ContactName": "John Steel",
+    "ContactTitle": "Marketing Manager",
+    "Address": "12 Orchestra Terrace",
+    "City": "Walla Walla",
+    "Region": "WA",
+    "PostalCode": "99362",
+    "Country": "USA",
+    "Phone": "(509) 555-7969",
+    "Fax": "(509) 555-6221"
+  },
+  {
+    "CustomerID": "MAGAA",
+    "CompanyName": "Magazzini Alimentari Riuniti",
+    "ContactName": "Giovanni Rovelli",
+    "ContactTitle": "Marketing Manager",
+    "Address": "Via Ludovico il Moro 22",
+    "City": "Bergamo",
+    "Region": null,
+    "PostalCode": "24100",
+    "Country": "Italy",
+    "Phone": "035-640230",
+    "Fax": "035-640231"
+  },
+  {
+    "CustomerID": "QUEEN",
+    "CompanyName": "Queen Cozinha",
+    "ContactName": "Lúcia Carvalho",
+    "ContactTitle": "Marketing Assistant",
+    "Address": "Alameda dos Canàrios, 891",
+    "City": "Sao Paulo",
+    "Region": "SP",
+    "PostalCode": "05487-020",
+    "Country": "Brazil",
+    "Phone": "(11) 555-1189",
+    "Fax": null
+  },
+  {
+    "CustomerID": "TOMSP",
+    "CompanyName": "Toms Spezialitäten",
+    "ContactName": "Karin Josephs",
+    "ContactTitle": "Marketing Manager",
+    "Address": "Luisenstr. 48",
+    "City": "Münster",
+    "Region": null,
+    "PostalCode": "44087",
+    "Country": "Germany",
+    "Phone": "0251-031259",
+    "Fax": "0251-035695"
+  },
+  {
+    "CustomerID": "WOLZA",
+    "CompanyName": "Wolski  Zajazd",
+    "ContactName": "Zbyszek Piestrzeniewicz",
+    "ContactTitle": "Owner",
+    "Address": "ul. Filtrowa 68",
+    "City": "Warszawa",
+    "Region": null,
+    "PostalCode": "01-012",
+    "Country": "Poland",
+    "Phone": "(26) 642-7012",
+    "Fax": "(26) 642-7012"
+  }
+]

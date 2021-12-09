@@ -1,0 +1,6 @@
+2021-01-12T10:21:09.434373600Z  /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+2021-01-12T10:21:09.434417700Z  /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+2021-01-12T10:21:09.436920800Z  /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+2021-01-12T10:21:09.445273800Z  10-listen-on-ipv6-by-default.sh: info: IPv6 listen already enabled
+2021-01-12T10:21:09.446178700Z  /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+2021-01-12T10:21:09.456518300Z  /docker-entrypoint.sh: Configuration complete; ready for start up

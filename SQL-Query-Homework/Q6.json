@@ -1,0 +1,28 @@
+[
+  {
+    "CustomerID": "PARIS",
+    "CompanyName": "Paris spécialités",
+    "ContactName": "Marie Bertrand",
+    "ContactTitle": "Owner",
+    "Address": "265, boulevard Charonne",
+    "City": "Paris",
+    "Region": null,
+    "PostalCode": "75012",
+    "Country": "France",
+    "Phone": "(1) 42.34.22.66",
+    "Fax": "(1) 42.34.22.77"
+  },
+  {
+    "CustomerID": "SPECD",
+    "CompanyName": "Spécialités du monde",
+    "ContactName": "Dominique Perrier",
+    "ContactTitle": "Marketing Manager",
+    "Address": "25, rue Lauriston",
+    "City": "Paris",
+    "Region": null,
+    "PostalCode": "75016",
+    "Country": "France",
+    "Phone": "(1) 47.55.60.10",
+    "Fax": "(1) 47.55.60.20"
+  }
+]

@@ -1,0 +1,15 @@
+---
+- name: mysql installation
+  hosts: host_a
+  gather_facts: yes
+  become: true
+
+  tasks:
+    - name: ensure mysql is installed at the latest version
+      apt:
+        name: mysql-server
+        state: present
+    - name: ensure mysql is started
+      service:
+        name: mysql
+        state: started

@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block content %}
+<style>
+  h2 {
+    padding-top: 50px;
+    border: 0px solid white;
+    width: 50%;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+  }
+
+  form,
+  input,
+  p {
+    border: 0px solid white;
+    width: 50%;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+  }
+
+  .btn-default {
+    color: white;
+  }
+
+  .btn-default:hover {
+    color: aquamarine;
+  }
+</style>
+
+<center>
+  <h2>Please login</h2>
+  <br>
+  <form action="" method="post">
+    <input type="text" placeholder="Username" name="username" value="{{
+          request.form.username }}">
+    <input type="password" placeholder="Password" name="password" value="{{
+          request.form.password }}">
+    <input class="btn btn-default" type="submit" value="Login">
+  </form>
+
+  {% if error %}
+  <p class="error"><strong>Error: </strong>{{ error }}</p>
+  {% endif %}
+</center>
+{% endblock %}

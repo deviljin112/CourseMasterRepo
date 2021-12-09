@@ -1,0 +1,42 @@
+[
+  {
+    "CustomerID": "QUICK",
+    "CompanyName": "QUICK-Stop",
+    "ContactName": "Horst Kloss",
+    "Phone": "0372-035188",
+    "Fax": null,
+    "Overdue Orders": 5
+  },
+  {
+    "CustomerID": "GOURL",
+    "CompanyName": "Gourmet Lanchonetes",
+    "ContactName": "André Fonseca",
+    "Phone": "(11) 555-9482",
+    "Fax": null,
+    "Overdue Orders": 3
+  },
+  {
+    "CustomerID": "EASTC",
+    "CompanyName": "Eastern Connection",
+    "ContactName": "Ann Devon",
+    "Phone": "(171) 555-0297",
+    "Fax": "(171) 555-3373",
+    "Overdue Orders": 2
+  },
+  {
+    "CustomerID": "BONAP",
+    "CompanyName": "Bon app'",
+    "ContactName": "Laurence Lebihan",
+    "Phone": "91.24.45.40",
+    "Fax": "91.24.45.41",
+    "Overdue Orders": 2
+  },
+  {
+    "CustomerID": "BOLID",
+    "CompanyName": "Bólido Comidas preparadas",
+    "ContactName": "Martín Sommer",
+    "Phone": "(91) 555 22 82",
+    "Fax": "(91) 555 91 99",
+    "Overdue Orders": 1
+  }
+]
